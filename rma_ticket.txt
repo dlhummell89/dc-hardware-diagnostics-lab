@@ -1,0 +1,8 @@
+=== AUTOMATED RMA HARDWARE TICKET ===
+Timestamp: 2026-11-10 17:06:21
+Asset Tag: DC-EAST-9042
+Physical Location: HALL-2-RACK-A04-U12
+IP Address: 192.168.56.10
+Diagnostics:
+ - MEMORY MISMATCH: Expected 5766MB, detected 2635MB. Possible failed DIMM.
+Action Required: Dispatch technician to HALL-2-RACK-A04-U12 for component reseat/replacement.

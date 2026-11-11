@@ -1,0 +1,7 @@
+{
+  "asset_tag": "DC-EAST-9042",
+  "rack_location": "HALL-2-RACK-A04-U12",
+  "ip_address": "192.168.56.10",
+  "expected_ram_mb": 5766,
+  "expected_disks": ["sda"]
+}
